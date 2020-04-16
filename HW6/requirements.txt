@@ -1,0 +1,15 @@
+ipykernel
+pandas
+numpy
+sklearn
+scipy
+yellowbrick
+Pillow
+seaborn
+matplotlib
+umap-learn
+pyarrow
+wordcloud
+gensim
+nltk
+hdbscan
